@@ -12,7 +12,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_KEY": "base64:iR3+b59EioRDuJk6pJ/B3U4WcFxGNWS/LJJ4I6bXsTM=",
-        "APP_DEBUG": "true",
+        "APP_DEBUG": "false",
         "APP_URL": "https://airlanggaj.vercel.app/",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
