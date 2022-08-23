@@ -15,8 +15,8 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!-- Favicons -->
-    <link href="{{ secure_asset('/img/about/logo.png') }}" rel="icon">
-    <link href="{{ secure_asset('/public/img/about/logo.png') }}" rel="apple-touch-icon">
+    <link href="img/about/logo.png" rel="icon">
+    <link href="/img/about/logo.png" rel="apple-touch-icon">
 
     <title>{{ $judul }}</title>
 
@@ -28,8 +28,8 @@
         href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="{{ secure_asset('/css/plugins.css') }}" />
-    <link rel="stylesheet" type="text/css" href="{{ secure_asset('/css/style.css') }}" />
+    <link rel="stylesheet" type="text/css" href="/css/plugins.css" />
+    <link rel="stylesheet" type="text/css" href="/css/style.css" />
     <!--[if lt IE 9]> <script type="text/javascript" src="js/modernizr.custom.js"></script> <![endif]-->
     <!-- /STYLES -->
 
