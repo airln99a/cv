@@ -1,5 +1,7 @@
 <?php
 
+use Illuminate\Support\Facades\App;
+use Illuminate\Support\Facades\URL;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\EmailController;
 
@@ -14,7 +16,11 @@ use App\Http\Controllers\EmailController;
 |
 */
 
-Route::get('//', function () {
+if (App::environment('production')) {
+  URL::forceScheme('https');
+}
+
+Route::get('/', function () {
   return view('main', [
     'judul' => 'Airlangga Joyonegoro'
   ]);
