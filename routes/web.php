@@ -14,7 +14,7 @@ use App\Http\Controllers\EmailController;
 |
 */
 
-Route::get('/', function () {
+Route::get('//', function () {
   return view('main', [
     'judul' => 'Airlangga Joyonegoro'
   ]);
