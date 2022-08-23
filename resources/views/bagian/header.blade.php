@@ -10,13 +10,13 @@
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-    <meta name="description" content="Name of your web site">
-    <meta name="author" content="Marketify">
+    <meta name="description" content="CV Airlangga Joyonegoro">
+    <meta name="author" content="Airlangga Joyonegoro">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!-- Favicons -->
-    <link href="/img/about/logo.png" rel="icon">
-    <link href="/img/about/logo.png" rel="apple-touch-icon">
+    <link href="img/about/logo.png" rel="icon">
+    <link href="img/about/logo.png" rel="apple-touch-icon">
 
     <title>{{ $judul }}</title>
 

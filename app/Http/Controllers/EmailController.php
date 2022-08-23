@@ -13,7 +13,7 @@ class EmailController extends Controller
   public function index(Request $request)
   {
     $dataEmail  = $request->validate([
-      'name' => 'required|max:255',
+      'name'          => 'required|max:255',
       'from'          => 'required|email:dns',
       'perusahaan'    => 'required|max:255',
       'telepon'       => 'required|max:12',
