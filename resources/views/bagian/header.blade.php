@@ -15,7 +15,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!-- Favicons -->
-    <link href="img/about/logo.png" rel="icon">
+    <link href="/img/about/logo.png" rel="icon">
     <link href="/img/about/logo.png" rel="apple-touch-icon">
 
     <title>{{ $judul }}</title>
