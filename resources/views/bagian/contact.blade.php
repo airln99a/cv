@@ -30,7 +30,7 @@
             <div class="form">
                 <div class="left">
                     <div class="fields">
-                        <form action="/email" method="post" class="contact_form" id="contact_form">
+                        <form action="./email" method="post" class="contact_form" id="contact_form">
                             @csrf
                             @if (session('status'))
                             <div class="returnmessage"
