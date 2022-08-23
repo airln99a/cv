@@ -169,6 +169,72 @@
             <div class="list_inner">
               <div class="image">
                 <img src="img/thumbs/1-1.jpg" alt="" />
+                <div class="main" data-img-url="/img/portfolio/vot-1.png">
+                </div>
+                <div class="details">
+                  <h3>Pemilwa Jurusan FEB UB 2022</h3>
+                  <span>Malang, Indonesia</span>
+                </div>
+                <a class="cavani_tm_full_link portfolio_popup" href="#"></a>
+              </div>
+              <div class="hidden_content">
+                <div class="popup_details">
+                  <div class="main_details">
+                    <div class="textbox">
+                      <p align="justify">I developed a website based e-voting application at the <b>Faculty of Economics
+                        and Business, Universitas Brawijaya Malang</b>. Stakeholders want an online vote due to the COVID-19
+                        pandemic, where the majority of voting students are still studying online so this application
+                        will make it easier for them. This website was developed using the Laravel framework.</p>
+                    </div>
+                    <div class="detailbox">
+                      <ul>
+                        <li>
+                          <span class="first">Category</span>
+                          <span><a href="#">Web Development</a></span>
+                        </li>
+                        <li>
+                          <span class="first">Date</span>
+                          <span>January 3, 2022</span>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="additional_images">
+                    <ul>
+                      <li>
+                        <div class="list_inner">
+                          <div class="my_image">
+                            <img src="img/thumbs/4-2.jpg" alt="" />
+                            <div class="main" data-img-url="/img/portfolio/vot-2.png"></div>
+                          </div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="list_inner">
+                          <div class="my_image">
+                            <img src="img/thumbs/4-2.jpg" alt="" />
+                            <div class="main" data-img-url="/img/portfolio/vot-3.png"></div>
+                          </div>
+                        </div>
+                      </li>
+                      <li>
+                        <div class="list_inner">
+                          <div class="my_image">
+                            <img src="img/thumbs/4-2.jpg" alt="" />
+                            <div class="main" data-img-url="/img/portfolio/vot-4.png"></div>
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="website">
+            <div class="list_inner">
+              <div class="image">
+                <img src="img/thumbs/1-1.jpg" alt="" />
                 <div class="main" data-img-url="/img/portfolio/hyp-1.jpg">
                 </div>
                 <div class="details">
@@ -386,7 +452,6 @@
                 </div>
                 <a class="cavani_tm_full_link portfolio_popup" href="#"></a>
               </div>
-
               <div class="hidden_content">
                 <div class="popup_details">
                   <div class="main_details">
