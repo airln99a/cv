@@ -378,7 +378,7 @@
             <div class="list_inner">
               <div class="image">
                 <img src="img/thumbs/1-1.jpg" alt="" />
-                <div class="main" data-img-url="/img/portfolio/sKP-1.png">
+                <div class="main" data-img-url="/img/portfolio/skp-1.png">
                 </div>
                 <div class="details">
                   <h3>g-Kinerja SKP</h3>
