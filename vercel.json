@@ -5,7 +5,7 @@
     },
     "routes": [
          {
-            "src": "/(css|js|img|png|svg)/(.*)",
+            "src": "/(css|js|img|jpg|pdf|png|svg)/(.*)",
             "dest": "public/$1/$2"
         },
         {
