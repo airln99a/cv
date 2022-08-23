@@ -15,8 +15,8 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <!-- Favicons -->
-    <link href="img/about/logo.png" rel="icon">
-    <link href="img/about/logo.png" rel="apple-touch-icon">
+    <link href="{{ asset('img/about/logo.png') }}" rel="icon">
+    <link href="{{ asset('img/about/logo.png') }}" rel="apple-touch-icon">
 
     <title>{{ $judul }}</title>
 
@@ -28,8 +28,8 @@
         href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="css/plugins.css" />
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/plugins.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('css/style.css') }}" />
     <!--[if lt IE 9]> <script type="text/javascript" src="js/modernizr.custom.js"></script> <![endif]-->
     <!-- /STYLES -->
 
@@ -84,11 +84,11 @@
                     </div>
                     <div class="social">
                         <ul>
-                            <li><a href="#"><img class="svg" src="img/svg/social/facebook.svg" alt="" /></a></li>
-                            <li><a href="#"><img class="svg" src="img/svg/social/twitter.svg" alt="" /></a></li>
-                            <li><a href="#"><img class="svg" src="img/svg/social/instagram.svg" alt="" /></a></li>
-                            <li><a href="#"><img class="svg" src="img/svg/social/dribbble.svg" alt="" /></a></li>
-                            <li><a href="#"><img class="svg" src="img/svg/social/tik-tok.svg" alt="" /></a></li>
+                            <li><a href="#"><img class="svg" src="{{ asset('img/svg/social/facebook.svg') }}" alt="" /></a></li>
+                            <li><a href="#"><img class="svg" src="{{ asset('img/svg/social/twitter.svg') }}" alt="" /></a></li>
+                            <li><a href="#"><img class="svg" src="{{ asset('img/svg/social/instagram.svg') }}" alt="" /></a></li>
+                            <li><a href="#"><img class="svg" src="{{ asset('img/svg/social/dribbble.svg') }}" alt="" /></a></li>
+                            <li><a href="#"><img class="svg" src="{{ asset('img/svg/social/tik-tok.svg') }}" alt="" /></a></li>
                         </ul>
                     </div>
                     <div class="copyright">
