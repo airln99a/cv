@@ -21,7 +21,7 @@
         </span>
       </h3>
       <div class="cavani_tm_button transition_link">
-        <a href="cv.pdf" onclick="myFunction()" rel="nofollow noopener noreferrer">Download My Resume</a>
+        <a href="#" onclick="myFunction()">Download My Resume</a>
           <script>
             function myFunction() {
             window.open("cv.pdf");
