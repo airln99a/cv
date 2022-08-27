@@ -9,7 +9,9 @@
                 <div class="wrapper">
                     <div class="left">
                         <p align="justify">Hello! My name is <strong>Airlangga Joyonegoro.</strong> I am a Web Developer and very
-                            passionate about supporting my work.</p>
+                            passionate about supporting my work. I like to solve a problem
+                            with the help of technology. In addition, I also have a high curiosity
+                            and love to learn something new</p>
                         <p align="justify">My last education is in Information Systems Brawijaya University and have worked on various
                             Web Development projects, I have acquired enough skills and knowledge needed to make your
                             project a success.</p>
@@ -17,14 +19,13 @@
                     <div class="right">
                         <ul>
                             <li><span class="first">Name:</span><span class="second">Airlangga Joyonegoro</span></li>
-                            <li><span class="first">Address:</span><span class="second">Simpang Kalpataru 1C,
-                                    Malang</span></li>
+                            <li><span class="first">Address:</span><span class="second">Malang, Indonesia</span></li>
                             {{-- <li><span class="first">Study:</span><span class="second">Univercity of Oxford</span></li> --}}
                             <li><span class="first">Degree:</span><span class="second">Bachelor (Brawijaya University)</span></li>
                             <li><span class="first">Mail:</span><span class="second"><a
                                         href="https://mail.google.com/mail/u/0/#inbox?compose=new"
                                         target="_blank">airlanggaj@gmail.com</a></span></li>
-                            <li><span class="first">Phone:</span><span class="second">+62 859 545 883 32</span></li>
+                            <li><span class="first">Phone:</span><span class="second">(+62)859 5458 8332</span></li>
                         </ul>
                     </div>
                 </div>
@@ -95,7 +96,7 @@
                                             </div>
                                             <div class="place">
                                                 <h3>Faculty of Computer Science, Brawijaya University</h3>
-                                                <span>Bachelor of Computer Science</span>
+                                                <span>Bachelor Degree of Information System</span>
                                             </div>
                                         </div>
                                     </li>
@@ -106,7 +107,7 @@
                                             </div>
                                             <div class="place">
                                                 <h3>Vocational, Brawijaya University</h3>
-                                                <span>Associate of Computer Science</span>
+                                                <span>Diploma Degree of Information Technology</span>
                                             </div>
                                         </div>
                                     </li>

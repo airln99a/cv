@@ -7,7 +7,6 @@
 		        <ul>
 		            <li><a href="https://www.facebook.com/profile.php?id=100068738174288"><img class="svg"
 		                        src="img/svg/social/facebook.svg" alt="" /></a></li>
-		            <li><a href="https://twitter.com/ajyoorr"><img class="svg" src="img/svg/social/twitter.svg" alt="" /></a>
 		            </li>
 		            <li><a href="https://www.instagram.com/ajyoor/"><img class="svg" src="img/svg/social/instagram.svg"
 		                        alt="" /></a></li>

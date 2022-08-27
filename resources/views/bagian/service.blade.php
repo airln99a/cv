@@ -66,8 +66,8 @@
                         </li>
                         <li>
                           <div class="list_inner">
-                            <img src="/img/logo/nodejs.svg" alt="nodejs" />
-                            <a class="cavani_tm_full_link" href="https://nodejs.org/"></a>
+                            <img src="/img/logo/postman.svg" alt="postman" />
+                            <a class="cavani_tm_full_link" href="https://postman.com/"></a>
                           </div>
                         </li>
                       </ul>

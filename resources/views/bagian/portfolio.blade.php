@@ -41,10 +41,6 @@
                     <div class="detailbox">
                       <ul>
                         <li>
-                          <span class="first">Client</span>
-                          <span>Dina Agustin</span>
-                        </li>
-                        <li>
                           <span class="first">Category</span>
                           <span><a href="#">Web Development</a></span>
                         </li>
@@ -61,7 +57,7 @@
                         <div class="list_inner">
                           <div class="my_image">
                             {{-- <div class="main" data-img-url="img/portfolio/1.jpg"></div> --}}
-                            <iframe width="700" height="300" src="https://www.youtube.com/embed/rPy6Ppd7x4Y" title=""
+                            <iframe width="700" height="300" src="https://drive.google.com/file/d/1emIjN__u7wYgSvOVGtwlUl-w8ITe2CL4/preview" title=""
                               frameborder="0"
                               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                               allowfullscreen></iframe>
@@ -118,10 +114,6 @@
                     </div>
                     <div class="detailbox">
                       <ul>
-                        <li>
-                          <span class="first">Client</span>
-                          <span>Edy</span>
-                        </li>
                         <li>
                           <span class="first">Category</span>
                           <span><a href="#">Web Development</a></span>
@@ -256,10 +248,6 @@
                     </div>
                     <div class="detailbox">
                       <ul>
-                        <li>
-                          <span class="first">Client</span>
-                          <span>Yosi Larasati</span>
-                        </li>
                         <li>
                           <span class="first">Category</span>
                           <span><a href="#">Web Development</a></span>

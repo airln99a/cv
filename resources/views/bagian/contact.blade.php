@@ -10,7 +10,7 @@
           <li>
             <div class="list_inner">
               <img class="svg" src="img/svg/location.svg" alt="" />
-              <span>Simpang Kalpataru 1C, Jawa Timur, Indonesia</span>
+              <span>Malang, Indonesia</span>
             </div>
           </li>
           <li>
