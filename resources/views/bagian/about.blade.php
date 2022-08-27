@@ -30,7 +30,39 @@
                     </div>
                 </div>
             </div>
-            <div class="skills">
+            <div class="services">
+              <div class="wrapper">
+                <div class="service_list">
+                  <div class="cavani_tm_title">
+                    <span>Hard Skill</span>
+                  </div>
+                  <div class="list">
+                    <ul>
+                      <li>HTML, CSS, and JavaScript</li>
+                      <li>CodeIgniter Framework</li>
+                      <li>Laravel Framework</li>
+                      <li>MySQL</li>
+                      <li>PostgreSQL</li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="service_list">
+                  <div class="cavani_tm_title">
+                    <span>Soft Skill</span>
+                  </div>
+                  <div class="list">
+                    <ul>
+                      <li>Collaboration</li>
+                      <li>Adaptation</li>
+                      <li>Self Learning</li>
+                      <li>Communication</li>
+                      <li>Discipline</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            {{-- <div class="skills">
                 <div class="wrapper">
                     <div class="programming">
                         <div class="cavani_tm_title">
@@ -79,7 +111,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> --}}
             <div class="resume">
                 <div class="wrapper">
                     <div class="education">

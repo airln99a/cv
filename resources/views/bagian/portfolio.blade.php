@@ -444,7 +444,7 @@
                 <div class="popup_details">
                   <div class="main_details">
                     <div class="textbox">
-                      <p align="justify">I'am developing an API on a web SKP (Sasaran Kinerja Pegawai) or known as the
+                      <p align="justify">I'am developed an API on a web SKP (Sasaran Kinerja Pegawai) or known as the
                         g-Kinerja application for a government
                         agency in Sorong, Indonesia. This API will later be used and integrated for mobile device
                         developers from this
@@ -496,7 +496,7 @@
                 <div class="popup_details">
                   <div class="main_details">
                     <div class="textbox">
-                      <p align="justify">I am developing an API for a web museum of Mandhilaras located in Pamekasan,
+                      <p align="justify">I'am developer an API for a web museum of Mandhilaras located in Pamekasan,
                         Indonesia. This API will later be used and integrated for mobile device
                         developers from this
                         application. The technology used here is Codeigniter (PHP).

@@ -11,8 +11,7 @@
             <div class="list_inner">
               <img class="svg" src="img/svg/character.svg" alt="" />
               <h3 class="title">Web Development</h3>
-              <p class="text">Developing website involves creating your website, making it one of the most
-                vital parts of your marketing. I am used to working as a Back End Developer, if in
+              <p class="text">I am used to working as a Back End Developer, if in
                 certain situations I can take on the role of Full Stack Developer</p>
               <a class="cavani_tm_full_link" href="#"></a>
 

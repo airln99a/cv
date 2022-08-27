@@ -22,7 +22,7 @@
           <li>
             <div class="list_inner">
               <img class="svg" src="img/svg/call.svg" alt="" />
-              <span>+62 859 545 883 32</span>
+              <span>(+62)859 5458 8332</span>
             </div>
           </li>
         </ul>
