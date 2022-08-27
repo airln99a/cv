@@ -24,13 +24,13 @@
         <a href="#" onclick="myFunction()">Download My Resume</a>
           <script>
             function myFunction() {
-            // window.open("cv.pdf");
-            var textToSave = 'CV-Airlangga-Joyonegoro';
-            var hiddenElement = document.createElement('a');
-            hiddenElement.href = 'data:attachment/text,' + encodeURI(textToSave);
-            hiddenElement.target = '_blank';
-            hiddenElement.download = 'cv.pdf';
-            hiddenElement.click();
+            var link      = document.createElement('a');
+            link.href     = "https://bit.ly/cv-airlangga"
+            link.download = "CV-Airlangga-Joyonegoro.pdf";
+            document.body.appendChild(link);
+            link.target   = "_blank";
+            link.click();
+            document.body.removeChild(link);
           }
           </script>
       </div>
