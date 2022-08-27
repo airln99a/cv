@@ -83,7 +83,7 @@
                     Laravel. To
                     decorate the website, I use 2 frameworks namely Tailwind CSS and Bootstrap, depending on needs and
                     desires. The
-                    databases that I understand are MySQL and PostgreSQL, while NodeJS and Git are useful as tools
+                    databases that I understand are MySQL and PostgreSQL, while Postman and Git are useful as tools
                     to help expedite
                     the website development process later, both individually and as a team.
                   </p>
