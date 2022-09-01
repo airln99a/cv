@@ -25,7 +25,7 @@
           <script>
             function myFunction() {
             var link      = document.createElement('a');
-            link.href     = "https://bit.ly/cv-airlangga"
+            link.href     = "https://bit.ly/CV-Airlangga-Joyonegoro"
             link.download = "CV-Airlangga-Joyonegoro.pdf";
             document.body.appendChild(link);
             link.target   = "_blank";
